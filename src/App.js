@@ -245,7 +245,7 @@ return(
     <svg ref={svgRef2}></svg>
   </div>
   <h6 class='creator'>Created by Ammarul</h6>
-  <h6><a href="blank" class='link'>Source Code</a></h6>
+  <h6><a href="https://github.com/mrlzchry/treemap" class='link'>Source Code</a></h6>
  
 </React.Fragment>
 )
